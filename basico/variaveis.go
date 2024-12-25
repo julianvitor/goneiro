@@ -14,7 +14,7 @@ func main() {
 
 	var a,b,c,d int = 1 , 2, 3, 4 // variaveis em uma linha
 	fmt.Println(a, b, c, d)
-
+	fmt.Println(a, b, c, d)
 	var(
 		e int = 5
 		f float32 = 5.5
